@@ -1,0 +1,83 @@
+[
+  {
+    "model": "BMW005",
+    "make": "BMW",
+    "car_image": "bmw1.jpg",
+    "car_price": 5770,
+    "rating": 4.5,
+    "cons_list": [
+      "High retail price.",
+      "Costly maintenance and insurance.",
+      "",
+      "Potentially stiff ride."
+    ],
+    "pros_list": [
+      "Superior handling and driving pleasure",
+      "Powerful engine options",
+      "Luxurious and intuitive interior",
+      "Excellent outward visibility"
+    ]
+  },
+  {
+    "model": "JGW0086",
+    "make": "JAGUAR",
+    "car_image": "jaguar.jpg",
+    "car_price": 56970,
+    "rating": 2.5,
+    "cons_list": [
+      "While the Jaguar XF offers plenty",
+      "The boot volume of the Jaguar XF is small"
+    ],
+    "pros_list": [
+      "Jaguar XF is a luxury car",
+      "The Jaguar XF can be a bit off-putting"
+    ]
+  },
+  {
+    "model": "fgW0086",
+    "make": "Maruti Fronx",
+    "car_image": "maruti_fronx.jpg",
+    "car_price": 5670,
+    "rating": 3.5,
+    "cons_list": [],
+    "pros_list": [
+      "Smart looking crossover with sharp & attractive styling",
+      "Feels better built than some other Maruti cars"
+    ]
+  },
+  {
+    "model": "KJW0086",
+    "make": "Honda Jazz",
+    "car_image": "honda_jazz.jpg",
+    "car_price": 4670,
+    "rating": 4,
+    "cons_list": [
+      "The Honda Jazz looks a bit dated since",
+      "The low-speed ride quality of the Honda Jazz",
+      "feels a bit too stiff on broken roads or rough surfaces",
+      "we are so used to seeing this design for ages"
+    ],
+    "pros_list": [
+      "The Honda Jazz looks a bit dated since",
+      "",
+      "Feels better built than some other Maruti cars",
+      "Under the hood, the Honda jazz gets the 1.2-litre i-VTEC engine"
+    ]
+  },
+  {
+    "model": "KFH0086",
+    "make": "Ford",
+    "car_image": "ford.jpg",
+    "car_price": 46750,
+    "rating": 5,
+    "cons_list": [
+      "The Ford looks a bit dated since",
+      "The low-speed ride quality of the Ford",
+      "feels a bit too stiff on broken roads or rough surfaces",
+      "we are so used to seeing this design for ages"
+    ],
+    "pros_list": [
+      "The Ford looks a bit dated since"
+    ]
+  }
+]

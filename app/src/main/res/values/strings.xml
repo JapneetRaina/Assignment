@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="name_prefix">Name: </string>
+    <string name="model_prefix">Model: </string>
+    <string name="car_prefix">CarImage: </string>
+    <string name="price_prefix">Price : </string>
+    <string name="rating_prefix">Rating : </string>
+
+</resources>
